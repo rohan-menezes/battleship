@@ -1,3 +1,3 @@
 # battleship
 
-This project is the game Battleship created in Java.
+This project is the game Battleship with a GUI.
